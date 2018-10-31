@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/16.1
+vVGA_640_480
+Z0 !s110 1540960630
+!i10b 1
+!s100 YLCb=TIFcfVD4kJJ_C?o?0
+IHY?hKDXjnnH@[7NDIjki01
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/Views/VGASim
+w1540960017
+8D:/Views/VGASim/VGACtrl.v
+FD:/Views/VGASim/VGACtrl.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1540960630.000000
+!s107 D:/Views/VGASim/VGACtrl.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Views/VGASim/VGACtrl.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@v@g@a_640_480
+vVGA_Top
+R0
+!i10b 1
+!s100 n;167fHUeR>IUb6iDb>`C3
+IC7B@VMh<hCZagRn2P5L]22
+R1
+R2
+w1540960627
+8D:/Views/VGASim/VGATop.v
+FD:/Views/VGASim/VGATop.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Views/VGASim/VGATop.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Views/VGASim/VGATop.v|
+!i113 1
+R5
+R6
+n@v@g@a_@top

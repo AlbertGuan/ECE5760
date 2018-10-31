@@ -1,0 +1,15 @@
+D:/Views/VGASim/VGATop.v {1 {vlog -work work -stats=none D:/Views/VGASim/VGATop.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module VGA_Top
+
+Top level modules:
+	VGA_Top
+
+} {} {}} D:/Views/VGASim/VGACtrl.v {1 {vlog -work work -stats=none D:/Views/VGASim/VGACtrl.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module VGA_640_480
+
+Top level modules:
+	VGA_640_480
+
+} {} {}}
